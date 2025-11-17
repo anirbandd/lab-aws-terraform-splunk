@@ -1,4 +1,0 @@
-anirban@legion-fedora:~/homelab/terraform-lab$ aws sts get-caller-identity --query Account --output text
-489975611136
-anirban@legion-fedora:~/homelab/terraform-lab$ aws sts get-caller-identity --query Arn --output text
-arn:aws:iam::489975611136:user/terraform_user

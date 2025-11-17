@@ -1,5 +1,5 @@
 .terraform*
-.accountdetails.txt
+accountdetails.txt
 *.html
 .vscode*
 *.tfstate*
